@@ -1,0 +1,67 @@
+body {
+  background-color:black;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 40pt;
+  color: white;
+}
+
+#intro {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 14pt;
+  color: white;
+}
+
+h3 {
+  font-family: cursive;
+  font-size: 30pt;
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  font-family: cursive;
+  font-size: 20pt;
+  color: white;
+}
+
+li {
+  font-family: fantasy;
+  font-size: 14pt;
+  color: white;
+}
+
+ul {
+  line-height: 1.5;
+}
+
+img {
+  height: 500px;
+  width: auto;
+  display:block;
+  margin:auto;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+a {
+  color:#0eeef4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
+
+a:visited  {
+  color: gray;
+}
+
+.firstline {
+  font-style: italic;
+  font-size:18pt;
+}
